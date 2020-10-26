@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ConnectSQLServer\ConnectSQLServer\bin\Debug\ConnectSQLServer.exe.config
+C:\Users\Asus\source\repos\ConnectSQLServer\ConnectSQLServer\bin\Debug\ConnectSQLServer.exe
+C:\Users\Asus\source\repos\ConnectSQLServer\ConnectSQLServer\bin\Debug\ConnectSQLServer.pdb
+C:\Users\Asus\source\repos\ConnectSQLServer\ConnectSQLServer\obj\Debug\ConnectSQLServer.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ConnectSQLServer\ConnectSQLServer\obj\Debug\ConnectSQLServer.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ConnectSQLServer\ConnectSQLServer\obj\Debug\ConnectSQLServer.exe
+C:\Users\Asus\source\repos\ConnectSQLServer\ConnectSQLServer\obj\Debug\ConnectSQLServer.pdb

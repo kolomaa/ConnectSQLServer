@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\ConnectSQLServer\SchoolSQL\bin\Debug\SchoolSQL.exe.config
+C:\Users\Asus\source\repos\ConnectSQLServer\SchoolSQL\bin\Debug\SchoolSQL.exe
+C:\Users\Asus\source\repos\ConnectSQLServer\SchoolSQL\bin\Debug\SchoolSQL.pdb
+C:\Users\Asus\source\repos\ConnectSQLServer\SchoolSQL\obj\Debug\SchoolSQL.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ConnectSQLServer\SchoolSQL\obj\Debug\SchoolSQL.exe
+C:\Users\Asus\source\repos\ConnectSQLServer\SchoolSQL\obj\Debug\SchoolSQL.pdb
